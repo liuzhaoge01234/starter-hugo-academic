@@ -7,27 +7,22 @@ subtitle:
 date_format: Jan 2006
 
 experience:
-  - title: 'CEO'
-    company: 'GenCoin'
-    company_url: ''
+  - title: 'Assistant Professor of Public Administration'
+    company: 'Xiamen University'
+    company_url: 'https://spa.xmu.edu.cn/info/1168/5408.htm'
     company_logo: XMU
-    location: 'California'
-    date_start: '2017-01-01'
+    location: 'Xiamen, Fujian, China'
+    date_start: '2021-08'
     date_end: ''
-    description: >-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 'Researh and teaching of emergency management.'
                 
-  - title: 'Professor'
-    company: 'University X'
+  - title: 'Visiting Researcher of Fire Safety Engineering'
+    company: 'The University of Edinburgh'
     company_url: ''
-    company_logo:
-    location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
+    company_logo: UOE
+    location: 'Edinburgh, Scotland, United Kingdom'
+    date_start: '2019-09'
+    date_end: '2020-09'
+    description: 'Reseach on big data based fire risk assessment.'
 
 ---
