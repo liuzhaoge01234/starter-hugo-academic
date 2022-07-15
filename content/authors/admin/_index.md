@@ -29,15 +29,12 @@ organizations:
     url: https://en.xmu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Management Science and Engineering
+      institution: Harbin Institute of Technology
+      year: 2021
+    - course: MS in Information Management and Information Systems
+      institution: Harbin Institute of Technology
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
