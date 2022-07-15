@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: mmexport1624405036989.jpg
+    image: ""
 ---
