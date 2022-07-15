@@ -1,7 +1,7 @@
 ---
 title: Zhao-Ge Liu
 role: Assistant Professor of Public Administration
-avatar_filename: mmexport1624405036989.jpg
+avatar_filename: https://skc.xmu.edu.cn/_t1274/main.htm
 bio: My research interests include governmental data governance, public safety
   services and emergency management.
 interests:
