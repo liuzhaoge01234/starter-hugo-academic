@@ -10,7 +10,7 @@ experience:
   - title: 'CEO'
     company: 'GenCoin'
     company_url: ''
-    company_logo: org-gc
+    company_logo: XMU
     location: 'California'
     date_start: '2017-01-01'
     date_end: ''
