@@ -42,8 +42,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Zhaoge Liu is an Assistant Professor in the School of Public Affairs at Xiamen University in China. His research interests are governmental data governance, public safety services and emergency management. He has published in some international journals, such as Knowledge-based Systems, Food Control, Fire Technology, Operational Research, and Natural Hazards Review.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zhaoge Liu is an Assistant Professor in the Department of Public Administration at the School of Public Affairs at Xiamen University in China. He recieved his Ph.D. in Management Science and Engineering from School of Management, Harbin Institute of Technology. His research interests include governmental data governance, public safety services and emergency management.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
