@@ -1,6 +1,7 @@
 ---
 title: Zhao-Ge Liu
 role: Assistant Professor of Public Administration
+avatar_filename: mmexport1638455751014.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
