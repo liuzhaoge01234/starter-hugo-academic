@@ -1,6 +1,7 @@
 ---
 widget: experience
 active: ture
+headless: true
 date_format: Jan 2006
 experience:
   - title: CEO
