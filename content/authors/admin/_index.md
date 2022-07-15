@@ -1,7 +1,7 @@
 ---
 title: Zhao-Ge Liu
 role: Assistant Professor of Public Administration
-avatar_filename: aaa.jpeg
+avatar_filename: aaa.jpg
 bio: My research interests include governmental data governance, public safety
   services and emergency management.
 interests:
