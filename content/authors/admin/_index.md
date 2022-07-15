@@ -2,12 +2,12 @@
 title: Zhao-Ge Liu
 role: Assistant Professor of Public Administration
 avatar_filename: mmexport1638455751014.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include governmental data governance, public safety
+  services and emergency management.
 interests:
+  - Big Data Governance
+  - Public Safety Services
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,8 +42,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhaoge Liu is an Assistant Professor in the School of Public Affairs at Xiamen University in China. His research interests are governmental data governance, public safety services and emergency management. He has published in some international journals, such as Knowledge-based Systems, Food Control, Fire Technology, Operational Research, and Natural Hazards Review.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
