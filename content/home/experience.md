@@ -4,7 +4,7 @@ active: ture
 headless: true
 date_format: Jan 2006
 experience:
-  - title: CEO
+  - title: Assistant Professor
     company: GenCoin
     company_url: ""
     company_logo: org-gc
