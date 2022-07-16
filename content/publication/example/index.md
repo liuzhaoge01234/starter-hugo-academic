@@ -1,79 +1,60 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: In the public safety service context, government big data governance
+  (GBDG) is a challenging decision-making problem that encompasses uncertainties
+  in the arenas of big data and its complex links. Modeling and collaborating
+  the key scenario information required for GBDG decision-making can minimize
+  system uncertainties. However, existing scenario-building methods are limited
+  by their rigidity as they are employed in various application contexts and the
+  associated high costs of modeling. In this paper, using a design science
+  paradigm, a model-driven scenario modeling approach is proposed to achieve
+  flexible scenario modeling for various applications through the transfer of
+  generic domain knowledge. The key component of the proposed approach is a
+  scenario meta-model that is built from existing literatures and practices by
+  integrating qualitative, quantitative, and meta-modeling analysis. An
+  instantiation mechanism of the scenario meta-model is also proposed to
+  generate customized scenarios under Antecedent-Behavior-Consequence (ABC)
+  theory. Two real-world safety service cases in Wuhan, China were evaluated to
+  find that the proposed approach reduces GBDG decision-making uncertainties
+  significantly by providing key information for GBDG problem identification,
+  solution design, and solution value perception. This scenario-building
+  approach can be further used to develop other GBDG systems for public safety
+  services with reduced uncertainties and complete decision-making functions.
+slides: example
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
+  - Xiang-Yang LI
+  - Xiao-hanZHU
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+publication: In *Information & Management*
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: In *Information & Management*
+url_source: ""
+url_video: ""
+title: "Scenario modeling for government big data governance decision-making:
+  Chinese experience with public safety services"
+doi: ""
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2022-02-18T00:00:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
