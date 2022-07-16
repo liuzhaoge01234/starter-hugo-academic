@@ -11,8 +11,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Undergraduate
+      tag: Undergraduate
+    - name: Postgraduate
+      tag: Postgraduate
     - name: Other
       tag: Demo
 design:
