@@ -5,9 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include governmental data governance, public safety
   services and emergency management.
 interests:
-  - Big Data Governance(大数据治理)
-  - Emergency Management(应急管理)
-  - Artificial Intelligence(人工智能)
+  - Big Data Governance
+  - Public Safety Services
+  - Emergency Management
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
